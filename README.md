@@ -1,5 +1,21 @@
 # pdf_reader
 
+
+
+running vue with pdf reader feature on AWS-ec2
+
+![alt text](https://github.com/wolfmib/aws_pdf_reader_by_vue/blob/main/img/pdf_reader_demo.jpg?raw=true)
+
+
+
+
+
+
+
+
+
+
+
 ## Project setup
 ```
 npm install
