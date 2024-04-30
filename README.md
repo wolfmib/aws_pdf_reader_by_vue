@@ -3,10 +3,13 @@
 
 
 running vue with pdf reader feature on AWS-ec2
+---
 
 ![alt text](https://github.com/wolfmib/aws_pdf_reader_by_vue/blob/main/img/pdf_reader_demo.jpg?raw=true)
 
 
+
+---
 ##  🐥🐥🐥 Note
 - use vue2 (if you want vue3, you might consider certain package updated and installation)
 - with stable node 18
