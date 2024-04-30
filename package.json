@@ -1,5 +1,5 @@
 {
-    "name": "ja_aws_pdf_reader_ec2",
+    "name": "aws_pdf_reader_by_vue",
     "version": "0.1.0",
     "private": true,
     "scripts": {
