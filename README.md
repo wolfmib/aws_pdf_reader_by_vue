@@ -51,7 +51,7 @@ Please note that this application is intended for development purposes only. It 
 In future updates, we plan to address security by implementing HTTPS and using official domain names for production deployments in AWS. This will enhance the application's security and readiness for real-world use.
 
 
-
+See [LinkedIn Article](https://www.linkedin.com/pulse/build-vue-pdf-reader-aws-ec2-step-by-step-guide-developers-hung-xeihf)
 
 
 -------------
